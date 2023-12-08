@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1fc62915-b18d-4c44-87a2-bbc08df0b42a/resourceGroups/sushu-royal-api-y/providers/Microsoft.Web/sites/sushu-royal-api-y",
+    "appService.deploySubpath": "."
+}

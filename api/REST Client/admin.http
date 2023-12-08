@@ -1,0 +1,10 @@
+######### NORMAL OPERATION  ###########
+
+@baseUrl = http://localhost:3000
+
+### Read all sushis
+GET {{{baseUrl}}}/admin/
+
+
+
+
