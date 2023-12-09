@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1fc62915-b18d-4c44-87a2-bbc08df0b42a/resourceGroups/AppServiceQS-rg/providers/Microsoft.Web/sites/sushi-royal-app",
+    "appService.deploySubpath": "api"
+}
